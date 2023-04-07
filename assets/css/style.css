@@ -1,0 +1,52 @@
+body {
+    font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Calisto MT, Times New Roman, serif;
+    background-color: blanchedalmond;
+    font-size:30px;
+    font-weight: 500;
+}
+.bg-body-tertiary {
+    background-color: navajowhite!important;
+}
+.slider {
+}
+
+.line {
+    background-color: navajowhite;
+    margin-top:30px;
+}
+
+.line a {
+    color:black;
+    text-decoration: none;
+    margin-left:50px;
+}
+
+.line a:hover {
+    background-color: crimson;
+    padding:15px;
+    transition: 0.1s;
+}
+
+.nav-link:hover {
+    background-color: crimson;
+    padding:5px;
+    transition: 0.1s;
+}
+
+.mt-10 {
+    margin-top:80px;
+}
+
+
+.footer {
+    background-color: navajowhite;
+    padding:5px;
+}
+
+.left-text {
+    text-align: left;
+}
+
+.right-text {
+    text-align: right;
+}
